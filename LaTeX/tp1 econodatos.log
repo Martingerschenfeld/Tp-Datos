@@ -1,0 +1,417 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.4.5)  21 MAY 2020 18:27
+entering extended mode
+**"./tp1 econodatos.tex"
+("tp1 econodatos.tex"
+LaTeX2e <2019-10-01> patch level 3
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2019/10/25 v1.4k Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
+Package: amsmath 2019/04/01 v2.17c AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen103
+))
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks16
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks17
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2855.
+LaTeX Info: Redefining \] on input line 2856.
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count100
+\float@exts=\toks21
+\float@box=\box29
+\@float@everytoks=\toks22
+\@floatcapt=\box30
+)
+\@float@every@table=\toks23
+ ("tp1 econodatos.aux")
+\openout1 = `"tp1 econodatos.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+ ("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count101
+\scratchdimen=\dimen114
+\scratchbox=\box31
+\nofMPsegments=\count102
+\nofMParguments=\count103
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count104
+\MPscratchDim=\dimen115
+\MPnumerator=\count105
+\makeMPintoPDFobject=\count106
+\everyMPtoPDFconversion=\toks25
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\ifluatex.sty"
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+
+("C:\Program Files\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)))))
+("C:\Program Files\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexcmds.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+("tp1 econodatos.toc")
+\tf@toc=\write3
+\openout3 = `"tp1 econodatos.toc"'.
+
+ [1
+
+{C:/Users/Marti/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 20.
+
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 20.
+
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (102.42332pt too wide) in paragraph at lines 20--20
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
+
+ []
+
+<tweet_screenshot.png, id=8, 442.65375pt x 298.86656pt>
+File: tweet_screenshot.png Graphic file (type png)
+<use tweet_screenshot.png>
+Package pdftex.def Info: tweet_screenshot.png  used on input line 29.
+(pdftex.def)             Requested size: 258.75pt x 174.71082pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+[2 <./tweet_screenshot.png>]
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 4
+0.
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 40.
+<df_twitter.info.png, id=16, 289.08pt x 246.9225pt>
+File: df_twitter.info.png Graphic file (type png)
+<use df_twitter.info.png>
+Package pdftex.def Info: df_twitter.info.png  used on input line 52.
+(pdftex.def)             Requested size: 258.75pt x 221.02626pt.
+ [3]
+Underfull \hbox (badness 10000) in paragraph at lines 56--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+<tweet_token.png, id=21, 128.73094pt x 240.14719pt>
+File: tweet_token.png Graphic file (type png)
+<use tweet_token.png>
+Package pdftex.def Info: tweet_token.png  used on input line 64.
+(pdftex.def)             Requested size: 120.7521pt x 225.26932pt.
+[4 <./df_twitter.info.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+<histograma1.png, id=25, 399.4925pt x 329.23pt>
+File: histograma1.png Graphic file (type png)
+<use histograma1.png>
+Package pdftex.def Info: histograma1.png  used on input line 73.
+(pdftex.def)             Requested size: 258.75pt x 213.24843pt.
+[5 <./tweet_token.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+
+ []
+
+<location.png, id=29, 323.70938pt x 228.10219pt>
+File: location.png Graphic file (type png)
+<use location.png>
+Package pdftex.def Info: location.png  used on input line 86.
+(pdftex.def)             Requested size: 258.75pt x 182.33928pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--88
+
+ []
+
+[6 <./histograma1.png>]
+<location2.png, id=34, 240.9pt x 255.95625pt>
+File: location2.png Graphic file (type png)
+<use location2.png>
+Package pdftex.def Info: location2.png  used on input line 96.
+(pdftex.def)             Requested size: 258.75pt x 274.94841pt.
+ [7 <./location.png>]
+<longitud.png, id=39, 404.51125pt x 289.08pt>
+File: longitud.png Graphic file (type png)
+<use longitud.png>
+Package pdftex.def Info: longitud.png  used on input line 107.
+(pdftex.def)             Requested size: 258.75pt x 184.91351pt.
+ [8 <./location2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
+
+ []
+
+<longitud2.png, id=43, 390.45876pt x 282.05376pt>
+File: longitud2.png Graphic file (type png)
+<use longitud2.png>
+Package pdftex.def Info: longitud2.png  used on input line 117.
+(pdftex.def)             Requested size: 258.75pt x 186.91782pt.
+[9 <./longitud.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
+
+ []
+
+<keyword.png, id=48, 874.26625pt x 380.42125pt>
+File: keyword.png Graphic file (type png)
+<use keyword.png>
+Package pdftex.def Info: keyword.png  used on input line 130.
+(pdftex.def)             Requested size: 413.99895pt x 180.1447pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 130--131
+[][] 
+ []
+
+[10 <./longitud2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+
+ []
+
+
+Overfull \hbox (1.195pt too wide) in paragraph at lines 137--138
+[]\OT1/cmr/m/n/10 Para seguir con nue-stro analisis, anal-izamos como son las 
+key-words en funcion
+ []
+
+<keyword2.png, id=53, 312.41719pt x 441.90094pt>
+File: keyword2.png Graphic file (type png)
+<use keyword2.png>
+Package pdftex.def Info: keyword2.png  used on input line 141.
+(pdftex.def)             Requested size: 413.99895pt x 585.59686pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 141--142
+[][] 
+ []
+
+[11 <./keyword.png>]
+Overfull \vbox (59.5413pt too high) has occurred while \output is active []
+
+
+[12 <./keyword2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+
+ []
+
+<keyword3.png, id=61, 383.4325pt x 340.27126pt>
+File: keyword3.png Graphic file (type png)
+<use keyword3.png>
+Package pdftex.def Info: keyword3.png  used on input line 151.
+(pdftex.def)             Requested size: 345.0pt x 306.18417pt.
+<arroba.png, id=62, 387.4475pt x 355.3275pt>
+File: arroba.png Graphic file (type png)
+<use arroba.png>
+Package pdftex.def Info: arroba.png  used on input line 162.
+(pdftex.def)             Requested size: 241.49895pt x 221.48273pt.
+<arroba2.png, id=63, 393.47pt x 362.35374pt>
+File: arroba2.png Graphic file (type png)
+<use arroba2.png>
+Package pdftex.def Info: arroba2.png  used on input line 167.
+(pdftex.def)             Requested size: 241.49895pt x 222.39561pt.
+[13 <./keyword3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
+
+ []
+
+[14 <./arroba.png> <./arroba2.png>]
+<heatmap.png, id=74, 270.00874pt x 157.58875pt>
+File: heatmap.png Graphic file (type png)
+<use heatmap.png>
+Package pdftex.def Info: heatmap.png  used on input line 179.
+(pdftex.def)             Requested size: 241.49895pt x 140.95326pt.
+ [15 <./heatmap.png>] ("tp1 econodatos.aux") ) 
+Here is how much of TeX's memory you used:
+ 2833 strings out of 492450
+ 36551 string characters out of 3129750
+ 99449 words of memory out of 3000000
+ 7156 multiletter control sequences out of 15000+200000
+ 9497 words of font info for 36 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,7n,32p,882b,230s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on "tp1 econodatos.pdf" (15 pages, 347926 bytes).
+PDF statistics:
+ 99 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+
